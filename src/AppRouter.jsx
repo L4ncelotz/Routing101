@@ -3,7 +3,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Products from './pages/Products';
-import ProductDetail from './pages/ProductDetail';
+import ProductDetail from './pages/Productdetail';
 
 function AppRouter() {
   return (
